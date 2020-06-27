@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api-token-auth', views.ObtainAuthToken.as_view()),
     path('users/', include('users.urls')),
-    #path('quiz/', include('quiz.urls')),
+    path('quiz/', include('quiz.urls')),
 ]
