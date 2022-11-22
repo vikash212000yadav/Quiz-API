@@ -2,6 +2,6 @@ Django==2.2.24
 django-extensions==2.0.7
 djangorestframework==3.11.2
 generics==0.0.1.dev0
-Pillow==8.2.0
+Pillow==9.3.0
 pytz==2018.4
 six==1.11.0
